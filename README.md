@@ -17,8 +17,8 @@ This is a project were I going through how to solve an imbalanced classification
 
 6) I found that the Logistic Regression was actually the best model to use on the entire imbalanced data set.
 
-Running the tests
+### Running the tests
 The tests actually ran pretty quickly. The dataset its self isn't too large, so testing how different models and parameters is suggested. Given they already gave us the principal componenets I did not try to do feature engineering. I did get rid of the time variable as I didn't find it that useful.
 
-Acknowledgments
+### Acknowledgments
 Thanks to joparga3 off of Kaggle for inspiration and the code to find the best C parameter. 
