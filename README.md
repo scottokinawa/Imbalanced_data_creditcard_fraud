@@ -1,5 +1,5 @@
 # Imbalanced Data with credit card fraud information 
-This is a project were I going through how to solve an imbalanced classification problem. There are a lot more normal credit card transactions than their are fraudulent transactions. The issue is to decide which method and models to use to best solve how to predict what transaction is fraudulent or not. I picked undersampling and proceeded with logistic regression after testing how a few other models. This data was taken off of kaggle and can be found here: https://www.kaggle.com/dalpozz/creditcardfraud
+This is a project where I'm going through how to solve an imbalanced classification problem. There are a lot more normal credit card transactions than their are fraudulent transactions. The issue is to decide which method and models to use to best solve how to predict what transaction is fraudulent or not. I picked undersampling and proceeded with logistic regression after testing how a few other models. This data was taken off of kaggle and can be found here: https://www.kaggle.com/dalpozz/creditcardfraud
 
 
 ## How I went about this project: 
